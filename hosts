@@ -1,0 +1,16 @@
+# for best performances, use different Macs for different ports
+# a college computer lab is ideal!
+
+[cast]
+sampson       ansible_ssh_host=127.0.0.1 voice=alex
+gregory       ansible_ssh_host=127.0.0.1 voice=ralph
+abraham       ansible_ssh_host=127.0.0.1 voice=bruce
+tybalt        ansible_ssh_host=127.0.0.1 voice=fred
+benvolio      ansible_ssh_host=127.0.0.1 voice=ralph
+first_citizen ansible_ssh_host=127.0.0.1 voice='pipe organ'
+capulet       ansible_ssh_host=127.0.0.1 voice='cellos'
+lady_capulet  ansible_ssh_host=127.0.0.1 voice=vicki
+montague      ansible_ssh_host=127.0.0.1 voice=zarvox
+lady_montague ansible_ssh_host=127.0.0.1 voice=victoria
+prince        ansible_ssh_host=127.0.0.1 voice=trinoids
+
