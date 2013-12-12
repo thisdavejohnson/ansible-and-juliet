@@ -3,6 +3,8 @@ Ansible and Juliet
 
 This is an Ansible playbook, intended to cast a hapless college Mac lab into an unexpected scheduled Shakespearean performance.
 
+If you need Ansible, see http://ansibleworks.com or http://github.com/ansible/ansible
+
 Setup
 =====
 
