@@ -377,7 +377,7 @@
   tasks:
     - osx_say: voice="{{voice}}" msg="{{speech}}"
 
-- hosts: lady_motegue
+- hosts: lady_montague
   vars:
     speech: |
       Thou shalt not stir a foot to seek a foe.
